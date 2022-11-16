@@ -1,0 +1,27 @@
+{
+  "name": "dt_3-lesson",
+  "version": "1.0.0",
+  "description": "12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -p 3004"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimych1978/dt_3-lesson.git"
+  },
+  "author": "dmitrii bashkatov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimych1978/dt_3-lesson/issues"
+  },
+  "homepage": "https://github.com/dimych1978/dt_3-lesson#readme",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "axios": "^1.1.3"
+  }
+}
